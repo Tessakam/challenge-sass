@@ -2,7 +2,7 @@ body {
   font: 100% "Space Mono", monospace;
   color: #2748B3;
   margin: 0px;
-  padding: 0px;
+  padding: 16px;
   background-color: #000;
   background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
   background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
@@ -13,17 +13,20 @@ article {
   display: flex;
   flex-wrap: wrap; }
 
-article section {
+section {
   flex-grow: 1;
   flex-basis: 45%;
   border: 1px silver solid;
-  padding: 16px;
+  -webkit-box-shadow: 10px 10px 19px -4px rgba(255, 255, 255, 0.75);
+  -moz-box-shadow: 10px 10px 19px -4px rgba(255, 255, 255, 0.75);
+  box-shadow: 10px 10px 19px -4px rgba(255, 255, 255, 0.75);
+  padding: 32px;
   margin: 16px;
   clear: both;
   overflow: auto;
   box-sizing: border-box; }
 
-article section#selling-points {
+section#selling-points {
   flex-grow: 2;
   flex-basis: 100%; }
 
@@ -42,11 +45,11 @@ article code {
   display: block;
   word-wrap: break-word; }
 
-article code.before {
+code.before {
   float: left;
   width: 40%; }
 
-article code.after {
+code.after {
   float: right;
   width: 40%; }
 
@@ -67,7 +70,9 @@ h6 {
 .message,
 .success,
 .error,
-.warning {
+.warning,
+.success,
+.error {
   border: 1px solid #ccc;
   padding: 10px;
   color: #2748B3;
@@ -80,7 +85,7 @@ h6 {
 .error {
   background-color: red; }
 
-.warning {
+.warning, .success, .error {
   background-color: orange; }
 
 /*# sourceMappingURL=example.css.map */
