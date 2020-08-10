@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f15ddf5eb5db66d14721ca887032603e1c25be60/example.sassc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -54,7 +54,9 @@
       <workItem from="1597049974767" duration="723000" />
       <workItem from="1597051583477" duration="518000" />
       <workItem from="1597052140099" duration="2745000" />
-      <workItem from="1597054960919" duration="26000" />
+      <workItem from="1597054960919" duration="999000" />
+      <workItem from="1597055986113" duration="236000" />
+      <workItem from="1597056236984" duration="2988000" />
     </task>
     <servers />
   </component>
@@ -62,10 +64,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog" timestamp="1597048767048">
+    <state x="1753" y="271" width="721" height="653" key="EditFileWatcherDialog" timestamp="1597055017984">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597048767048" />
+    <state x="1753" y="271" width="721" height="653" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597055017984" />
     <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597051190170">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
