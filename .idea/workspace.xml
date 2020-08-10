@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Sass File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fto0qfN99Pzeio7sKPT0IcGotB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="" />
+      <created>1597046529657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597046529657</updated>
+      <workItem from="1597046530941" duration="703000" />
+      <workItem from="1597048013423" duration="1685000" />
+      <workItem from="1597049974767" duration="723000" />
+      <workItem from="1597051583477" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog" timestamp="1597048767048">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597048767048" />
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597051190170">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597051190170" />
+    <state x="1608" y="129" key="SettingsEditor" timestamp="1597052094131">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597052094131" />
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1597048539319">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597048539319" />
+  </component>
+</project>
