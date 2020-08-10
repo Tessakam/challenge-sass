@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f15ddf5eb5db66d14721ca887032603e1c25be60/example.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/f15ddf5eb5db66d14721ca887032603e1c25be60/example.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/example.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
-    </list>
+    <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +23,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fto0qfN99Pzeio7sKPT0IcGotB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -58,12 +56,15 @@
       <workItem from="1597052140099" duration="2745000" />
       <workItem from="1597054960919" duration="999000" />
       <workItem from="1597055986113" duration="236000" />
-      <workItem from="1597056236984" duration="6292000" />
+      <workItem from="1597056236984" duration="6712000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1753" y="271" width="721" height="653" key="EditFileWatcherDialog" timestamp="1597055017984">
