@@ -9,7 +9,7 @@ atw-giertz-3-23/1.The-Field/5.SASS/
         ◦ Variables - done
         ◦ Mixins (Functions)  - done
         ◦ Nesting  - done
-        ◦ Partials & Import 
+        ◦ Partials & Import - done but worked with class blue/red in the exercise
         ◦ Extend/Inheritance - done
         ◦ Operators (Math) – done
         ◦ Minify your CSS output 
