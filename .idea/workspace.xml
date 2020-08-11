@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f15ddf5eb5db66d14721ca887032603e1c25be60/example.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/f15ddf5eb5db66d14721ca887032603e1c25be60/example.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blue.html" beforeDir="false" afterPath="$PROJECT_DIR$/blue.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/example.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red.html" beforeDir="false" afterPath="$PROJECT_DIR$/red.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1597054960919" duration="999000" />
       <workItem from="1597055986113" duration="236000" />
       <workItem from="1597056236984" duration="12530000" />
-      <workItem from="1597129038244" duration="5027000" />
+      <workItem from="1597129038244" duration="5400000" />
     </task>
     <servers />
   </component>

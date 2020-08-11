@@ -4,22 +4,22 @@
   box-shadow: 10px 10px 19px -4px rgba(255, 255, 255, 0.75);
 }
 
-@mixin padding{
+@mixin padding {
 padding:$value;
 }
 
-@mixin doublepadding{
+@mixin doublepadding {
   padding:($value*2);
 }
 $value: 16px;
 
-.red{
+.red {
   color:darkred;
   background-color:lightpink;
   @include padding;
 }
 
-.blue{
+.blue {
   color:darkblue;
   background-color:lightblue;
   @include doublepadding;
