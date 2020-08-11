@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf1f342-e765-4549-a0dd-0a8060785dff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blue.html" beforeDir="false" afterPath="$PROJECT_DIR$/blue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/example.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/red.html" beforeDir="false" afterPath="$PROJECT_DIR$/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +38,7 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example.scss" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -68,7 +64,9 @@
       <workItem from="1597054960919" duration="999000" />
       <workItem from="1597055986113" duration="236000" />
       <workItem from="1597056236984" duration="12530000" />
-      <workItem from="1597129038244" duration="5400000" />
+      <workItem from="1597129038244" duration="8599000" />
+      <workItem from="1597138924037" duration="561000" />
+      <workItem from="1597140666694" duration="254000" />
     </task>
     <servers />
   </component>
@@ -79,21 +77,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1753" y="271" width="721" height="653" key="EditFileWatcherDialog" timestamp="1597055017984">
+    <state x="1768" y="189" width="721" height="689" key="EditFileWatcherDialog" timestamp="1597140929973">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1753" y="271" width="721" height="653" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597055017984" />
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597051190170">
+    <state x="1768" y="189" width="721" height="689" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597140929973" />
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597140705543">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597051190170" />
-    <state x="1608" y="129" key="SettingsEditor" timestamp="1597054985962">
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597140705543" />
+    <state x="1608" y="129" key="SettingsEditor" timestamp="1597140931275">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597054985962" />
-    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1597048539319">
+    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597140931275" />
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1597137535031">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597048539319" />
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597137535031" />
   </component>
 </project>
