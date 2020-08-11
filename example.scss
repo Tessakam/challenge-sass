@@ -14,13 +14,15 @@ padding:$value;
 $value: 16px;
 
 .red{
-  color: darkred;
-  background-color: lightpink;
+  color:darkred;
+  background-color:lightpink;
+  @include padding;
 }
 
 .blue{
-  color: cornflowerblue;
-  background-color: lightblue;
+  color:darkblue;
+  background-color:lightblue;
+  @include doublepadding;
 }
 
 body {
@@ -56,7 +58,7 @@ section#selling-points {
 }
 
 article code {
-  background: #000;
+  background: #dddddd;
   border: 1px solid #ddd;
   color: #666;
   page-break-inside: avoid;
