@@ -27,6 +27,7 @@ solo project
 *Link CSS / SCSS with File Watcher in PHP Storm
 * https://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass
 * https://css-tricks.com/introducing-sass-modules/
+* https://css-tricks.com/the-sass-ampersand/
 
 ##### SOURCE INSTRUCTIONS
 https://github.com/becodeorg/atw-giertz-3-23/tree/master/1.The-Field/5.SASS
